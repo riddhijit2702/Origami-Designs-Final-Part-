@@ -1,0 +1,23 @@
+body{
+    background-color: cyan;
+}
+
+.not-comp{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+    color: red;
+    font-size: 50px;
+
+}
+.not-compII{
+    display: flex;
+    margin: 50px;
+    margin-left: 500px;
+    justify-content: space-between;
+    color: red;
+    font-size: 50px;
+}
+.home{
+    font-size: x-large;
+}
